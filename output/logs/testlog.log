@@ -1,0 +1,135 @@
+2022-02-18 15:34:04,804 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 15:34:29,911 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 15:34:32,679 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 15:36:26,419 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 15:36:36,991 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 15:36:40,914 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 15:40:16,030 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 15:40:25,453 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 15:40:27,623 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 15:41:30,821 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 15:41:36,934 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 15:41:41,415 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 15:49:29,740 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-18 15:49:36,573 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 15:49:38,230 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-02-18 15:52:42,011 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-18 15:52:51,737 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 15:52:54,378 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart UNDEFINED
+2022-02-18 15:59:12,918 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started
+2022-02-18 15:59:19,005 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 15:59:25,661 - logger_File -INFO - Failed! text is not mathcin test cases requiremnt
+2022-02-18 15:59:25,906 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart PASSED
+2022-02-18 16:14:52,836 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-02-18 16:14:59,710 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 16:15:07,337 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-02-18 16:32:19,465 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-18 16:32:26,424 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 16:32:59,524 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-18 16:38:02,527 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-18 16:38:11,012 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 16:40:00,433 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-18 16:40:10,732 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 16:40:16,968 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-18 16:47:11,486 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-18 16:47:18,385 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 16:47:24,095 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-18 16:49:08,067 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-18 16:49:15,219 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 16:49:53,403 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab FAILED
+2022-02-18 16:50:52,324 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-18 16:50:59,598 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-18 16:51:05,249 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-18 17:16:07,033 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-18 17:16:22,726 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-02-19 12:11:56,270 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-19 12:12:10,940 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-02-19 12:14:57,219 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-19 12:15:09,594 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-02-19 12:18:20,996 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-19 12:18:33,403 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart UNDEFINED
+2022-02-19 12:23:13,787 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-19 12:23:25,342 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-19 12:39:00,742 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-19 12:39:13,287 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-19 12:39:13,345 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-19 12:39:23,149 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-19 13:08:39,203 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-19 13:08:53,695 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-19 13:08:53,759 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-19 13:09:03,878 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-19 13:09:03,900 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-19 13:09:12,614 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-19 13:18:17,233 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-19 13:18:29,441 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-19 13:18:29,514 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-19 13:18:40,006 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-19 13:18:40,036 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-19 13:18:48,804 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-19 13:18:48,830 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-19 13:18:59,558 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-19 13:42:17,923 - logger_File -INFO - Scenario login to page Started
+2022-02-19 13:42:25,816 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-19 13:42:29,201 - logger_File -INFO - Scenario login to page PASSED
+2022-02-19 14:04:12,410 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. Started
+2022-02-19 14:04:20,448 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-19 14:05:06,108 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. Started
+2022-02-19 14:05:13,132 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-19 14:05:18,759 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. PASSED
+2022-02-19 14:27:50,257 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. Started
+2022-02-19 14:27:57,528 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-19 14:28:30,774 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. FAILED
+2022-02-19 14:28:30,952 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-19 14:28:36,961 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-19 14:28:42,712 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-02-19 14:42:19,869 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. Started
+2022-02-19 14:42:26,745 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-19 14:42:59,799 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. FAILED
+2022-02-19 14:42:59,899 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-19 14:43:05,962 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-19 14:43:11,973 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-02-19 14:43:12,000 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-19 14:43:17,956 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-19 14:43:24,923 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-02-19 15:00:46,183 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-19 15:00:53,725 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-19 15:00:55,920 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-19 15:05:34,151 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-19 15:05:41,137 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-19 15:05:43,443 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-19 15:05:43,510 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-19 15:05:49,494 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-19 15:05:50,064 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-19 15:20:32,862 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-19 15:20:41,307 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-19 15:20:43,485 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-19 15:20:43,634 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-19 15:20:49,941 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-19 15:20:50,494 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-19 23:06:51,202 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-19 23:06:57,662 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-19 23:06:58,992 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-19 23:06:59,044 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-19 23:07:03,248 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-19 23:07:03,638 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-19 23:20:11,086 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-19 23:20:17,694 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-19 23:20:17,695 - logger_File -INFO - User is on test envioment!!!
+2022-02-19 23:20:17,762 - logger_File -INFO - User has click on desktop navigatoin
+2022-02-19 23:20:19,345 - logger_File -INFO - User has click on show all desktop subitem. 
+2022-02-19 23:20:19,431 - logger_File -INFO - Verified All ithem are presented on the desptop page. 
+2022-02-19 23:20:19,667 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-20 15:23:10,541 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-20 15:23:21,411 - logger_File -INFO - Scenario User verify currency values change FAILED
+2022-02-20 15:23:21,451 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-20 15:23:33,573 - logger_File -INFO - Scenario User empty Shopping cart message displays FAILED
+2022-02-20 15:43:58,245 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-20 15:44:06,620 - logger_File -INFO - Scenario User verify currency values change FAILED
+2022-02-20 15:44:06,659 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-20 15:44:12,770 - logger_File -INFO - Scenario User empty Shopping cart message displays FAILED
+2022-02-20 15:45:31,181 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-20 15:46:08,784 - logger_File -INFO - Scenario User verify currency values change FAILED
+2022-02-20 15:46:08,914 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-20 15:46:14,470 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-20 15:46:14,471 - logger_File -INFO - Title is matching user is in the right website
+2022-02-20 15:46:16,568 - logger_File -INFO - Scenario User empty Shopping cart message displays FAILED

@@ -1,0 +1,4 @@
+testRunners\Run.class
+stepDefinitions\Initializer.class
+stepDefinitions\DesktopStepDif.class
+stepDefinitions\labtopAndNoteBook.class
