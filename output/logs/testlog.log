@@ -133,3 +133,10 @@
 2022-02-20 15:46:14,470 - logger_File -INFO - Verified! User is in the correct webste
 2022-02-20 15:46:14,471 - logger_File -INFO - Title is matching user is in the right website
 2022-02-20 15:46:16,568 - logger_File -INFO - Scenario User empty Shopping cart message displays FAILED
+2022-02-20 16:00:42,175 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-02-20 16:00:50,679 - logger_File -INFO - Validated User in on Test Envionment
+2022-02-20 16:00:50,680 - logger_File -INFO - User is on test envioment!!!
+2022-02-20 16:00:50,792 - logger_File -INFO - User has click on desktop navigatoin
+2022-02-20 16:00:52,595 - logger_File -INFO - User has click on show all desktop subitem. 
+2022-02-20 16:00:52,828 - logger_File -INFO - Verified All ithem are presented on the desptop page. 
+2022-02-20 16:00:53,190 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
