@@ -140,3 +140,70 @@
 2022-02-20 16:00:52,595 [main] INFO logger_File - User has click on show all desktop subitem. 
 2022-02-20 16:00:52,828 [main] INFO logger_File - Verified All ithem are presented on the desptop page. 
 2022-02-20 16:00:53,190 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-21 11:38:42,290 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-02-21 11:38:54,083 [main] INFO logger_File - Validated User in on Test Envionment
+2022-02-21 11:38:54,084 [main] INFO logger_File - User is on test envioment!!!
+2022-02-21 11:38:54,217 [main] INFO logger_File - User has click on desktop navigatoin
+2022-02-21 11:38:56,090 [main] INFO logger_File - User has click on show all desktop subitem. 
+2022-02-21 11:38:58,184 [main] INFO logger_File - user lcik on cannon to add revviowe
+2022-02-21 11:38:58,325 [main] INFO logger_File - user lcik on wriete a revioew link
+2022-02-21 11:38:59,063 [main] INFO logger_File - Name, reviewo and rating has filled successfullly. 
+2022-02-21 11:38:59,193 [main] INFO logger_File - Verified user hit conityen button 
+2022-02-21 11:38:59,279 [main] INFO logger_File - Failed to show thank You message
+2022-02-21 11:38:59,280 [main] INFO logger_File - Verified result is mathcing. 
+2022-02-21 11:38:59,753 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-02-21 11:40:01,712 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-21 11:40:10,292 [main] INFO logger_File - Verified! User is in the correct webste
+2022-02-21 11:40:10,295 [main] INFO logger_File - Title is matching user is in the right website
+2022-02-21 11:40:12,095 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2022-02-21 11:41:51,410 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-21 11:42:01,194 [main] INFO logger_File - Verified! User is in the correct webste
+2022-02-21 11:42:01,195 [main] INFO logger_File - Title is matching user is in the right website
+2022-02-21 11:42:02,712 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2022-02-21 11:44:11,565 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-21 11:44:19,432 [main] INFO logger_File - Verified! User is in the correct webste
+2022-02-21 11:44:19,434 [main] INFO logger_File - Title is matching user is in the right website
+2022-02-21 11:44:20,627 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2022-02-21 11:46:09,640 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-21 11:46:16,778 [main] INFO logger_File - Verified! User is in the correct webste
+2022-02-21 11:46:16,780 [main] INFO logger_File - Title is matching user is in the right website
+2022-02-21 11:46:18,093 [main] INFO logger_File - Scenario User verify currency values change FAILED
+2022-02-21 11:46:45,524 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-02-21 11:46:52,771 [main] INFO logger_File - Verified! User is in the correct webste
+2022-02-21 11:46:52,772 [main] INFO logger_File - Title is matching user is in the right website
+2022-02-21 11:46:54,146 [main] INFO logger_File - Scenario User empty Shopping cart message displays FAILED
+2022-02-21 11:48:37,033 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-02-21 11:48:44,316 [main] INFO logger_File - Verified! User is in the correct webste
+2022-02-21 11:48:44,318 [main] INFO logger_File - Title is matching user is in the right website
+2022-02-21 11:48:45,523 [main] INFO logger_File - Scenario User empty Shopping cart message displays FAILED
+2022-02-21 11:49:45,801 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart Started
+2022-02-21 11:49:54,180 [main] INFO logger_File - User is on the right page. 
+2022-02-21 11:49:54,181 [main] INFO logger_File - User is on test envomet VERIFIED!
+2022-02-21 11:49:54,439 [main] INFO logger_File - user click on labtop and Note Book
+2022-02-21 11:49:55,811 [main] INFO logger_File - Usre clicked on labtop and note book
+2022-02-21 11:49:58,433 [main] INFO logger_File - user lciked on macbook
+2022-02-21 11:49:58,616 [main] INFO logger_File - user click on add to cart button labtop and note book
+2022-02-21 11:49:59,275 [main] INFO logger_File - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-21 11:52:17,431 [main] INFO logger_File - Scenario Product Comparison Started
+2022-02-21 11:52:24,582 [main] INFO logger_File - User is on the right page. 
+2022-02-21 11:52:24,584 [main] INFO logger_File - User is on test envomet VERIFIED!
+2022-02-21 11:52:24,795 [main] INFO logger_File - user click on labtop and Note Book
+2022-02-21 11:52:26,380 [main] INFO logger_File - Usre clicked on labtop and note book
+2022-02-21 11:52:26,617 [main] INFO logger_File - uSER clicked on macBook to comapres. 
+2022-02-21 11:52:28,523 [main] INFO logger_File - Scenario Product Comparison FAILED
+2022-02-21 11:52:52,399 [main] INFO logger_File - Scenario Adding an item to Wish list Started
+2022-02-21 11:52:59,719 [main] INFO logger_File - User is on the right page. 
+2022-02-21 11:52:59,721 [main] INFO logger_File - User is on test envomet VERIFIED!
+2022-02-21 11:52:59,830 [main] INFO logger_File - user click on labtop and Note Book
+2022-02-21 11:53:01,469 [main] INFO logger_File - Usre clicked on labtop and note book
+2022-02-21 11:53:01,632 [main] INFO logger_File - user CLickec on heart icond with list. 
+2022-02-21 11:53:01,771 [main] INFO logger_File - Success Message Has success fully displayed. 
+2022-02-21 11:53:02,153 [main] INFO logger_File - Scenario Adding an item to Wish list PASSED
+2022-02-21 11:53:24,668 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-21 11:53:31,733 [main] INFO logger_File - User is on the right page. 
+2022-02-21 11:53:31,734 [main] INFO logger_File - User is on test envomet VERIFIED!
+2022-02-21 11:53:31,801 [main] INFO logger_File - user click on labtop and Note Book
+2022-02-21 11:53:33,413 [main] INFO logger_File - Usre clicked on labtop and note book
+2022-02-21 11:53:35,903 [main] INFO logger_File - User Clicked on MacBook item
+2022-02-21 11:53:36,074 [main] INFO logger_File - Right price Displayed
+2022-02-21 11:53:36,406 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED

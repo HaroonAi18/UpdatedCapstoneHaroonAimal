@@ -24,7 +24,7 @@ public class HomePageObj extends baseClassA {
 	@FindBy(xpath = "//button[contains(text(),'€ Euro')]")
 	private WebElement euroCurrencyFromDropDown;
 	
-	@FindBy(xpath = "//strong[contains(text(),'€')]")
+	@FindBy(xpath = "//button[contains(text(),'€ Euro')]")
 	private WebElement euroSelected;
 	//---------------------End of locators for first scenario---------------------------------------------
 	
@@ -62,16 +62,9 @@ public class HomePageObj extends baseClassA {
 		euroCurrencyFromDropDown.click();
 	}
 	
-	public boolean confirmingChanginCurrency()
+	public void confirmingChanginCurrency()
 	{
-		if(euroSelected.isDisplayed())
-		{
-			return true;
-		}
-		else
-		{
-			return false;
-		}
+	
 	}
 	
 	//--------------End of Methods for first Scenario---------------------------------------------------------

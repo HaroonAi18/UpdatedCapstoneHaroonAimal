@@ -163,8 +163,7 @@ public class Labtop extends baseClassA {
 	
 	public void showSuccessMessageForBoth()
 	{
-		successMessageForBothComparison.isDisplayed();
-		successMessageForBothComparison.getText();
+		System.out.println(successMessageForBothComparison.getText());
 	}
 	
 	public void clickOnProductComparisonLink()
@@ -174,7 +173,14 @@ public class Labtop extends baseClassA {
 	
 	public void showProductComparisonChart()
 	{
-		productComparisonChart.isDisplayed();
+		if(productComparisonChart.isDisplayed())
+		{
+			logger.info("Success Message for product comparison is displayed!!");
+		}
+		else
+		{
+			logger.info("Failed No success maessage foudn");
+		}
 	}
 	
 	//-------------End of Second scenario-----------------------------------------------------------
@@ -186,9 +192,16 @@ public class Labtop extends baseClassA {
 		hearIconOnSony.click();
 	}
 	
-	public void showSuccessMessageWishList()
+	public boolean showSuccessMessageWishList()
 	{
-		sucessMessageWishList.click();
+		if(sucessMessageWishList.isDisplayed())
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
 	}
 	//--------------End of third Scenario Adding Item to Wish list0----------------------------------
 	

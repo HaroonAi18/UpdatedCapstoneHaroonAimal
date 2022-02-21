@@ -22,12 +22,14 @@ public class RetailPageStepDef extends baseClassA {
 	public void user_click_on_myaccount_retail()
 	{
 		rePage.clickOnMyAccount();
+		logger.info("user lcik on my account");
 	}
 	
 	@When("User click on Login retial")
 	public void user_click_on_longin_retail()
 	{
 		rePage.clickOnLogInRetailFeatureFirstLogin();
+		logger.info("user clicked on login retail page");
 	}
 	
 	@And("User enter username ‘userName’ and password 'password’")
@@ -35,17 +37,28 @@ public class RetailPageStepDef extends baseClassA {
 	{
 		rePage.enterUsername();
 		rePage.enterPassword();
+		logger.info("Verified user successfully entered username and password");
 	}
 	
 	@And("User click on Login button retail feature")
 	public void user_click_on_longin_button()
 	{
 		rePage.clickLogInButton();
+		logger.info("user lcike on login button");
 	}
 	
 	@Then("User should be logged in to MyAccount dashboard")
 	public void user_should_be_loggeed_to_dashborad()
 	{
+		String getPageTitle = driver.getTitle();
+		if (getPageTitle.equalsIgnoreCase(""))
+		{
+			logger.info("user has logged in to the retail dahsboard!");
+		}
+		else
+		{
+			logger.info("unexpected error happenned");
+		}
 		
 	}
 	//------------------End of BackGround information login to my account---------------

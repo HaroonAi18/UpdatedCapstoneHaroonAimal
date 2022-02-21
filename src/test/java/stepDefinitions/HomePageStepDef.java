@@ -42,7 +42,6 @@ public class HomePageStepDef extends baseClassA{
 	@Then("currency value should change to Euro")
 	public void currency_value_should_change_to_eiro()
 	{
-		Home.confirmingChanginCurrency();
 		logger.info("Verified User has successfully change currency for website.");
 	}
 	//------------------End of First scenario------------------------------

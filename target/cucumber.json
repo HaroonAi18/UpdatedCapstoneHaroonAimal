@@ -11,48 +11,48 @@
         "steps": [
           {
             "result": {
-              "duration": 274561700,
+              "duration": 144097900,
               "status": "passed"
             },
             "line": 4,
-            "name": "User is on Retail website",
+            "name": "User is on Retail website labtop and notebook",
             "match": {
-              "location": "stepDefinitions.DesktopStepDif.user_is_on_retail_website()"
+              "location": "stepDefinitions.labtopAndNoteBook.user_click_on_retail_website_noteBook()"
             },
             "keyword": "Given "
           },
           {
             "result": {
-              "duration": 109816500,
+              "duration": 66207400,
               "status": "passed"
             },
             "line": 5,
-            "name": "User click on Desktops tab",
+            "name": "User click on Laptop \u0026NoteBook tab",
             "match": {
-              "location": "stepDefinitions.DesktopStepDif.user_click_on_desktops_tab()"
+              "location": "stepDefinitions.labtopAndNoteBook.user_click_on_labtop_and_noteBook_tab()"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 1803112700,
+              "duration": 1612814200,
               "status": "passed"
             },
             "line": 6,
-            "name": "User click on Show all desktops",
+            "name": "User click on Show all Laptop \u0026NoteBook option",
             "match": {
-              "location": "stepDefinitions.DesktopStepDif.user_Clik_On_show_all_desktops()"
+              "location": "stepDefinitions.labtopAndNoteBook.user_click_on_show_all_labtop_and_notebook()"
             },
             "keyword": "And "
           }
         ]
       },
       {
-        "start_timestamp": "2022-02-20T21:00:41.927Z",
+        "start_timestamp": "2022-02-21T16:53:24.434Z",
         "before": [
           {
             "result": {
-              "duration": 8342338400,
+              "duration": 7017557800,
               "status": "passed"
             },
             "match": {
@@ -60,14 +60,14 @@
             }
           }
         ],
-        "line": 9,
-        "name": "User verify all items are present in Desktops tab",
+        "line": 32,
+        "name": "Validate the price of MacBook Pro is 2000",
         "description": "",
-        "id": "desktop;user-verify-all-items-are-present-in-desktops-tab",
+        "id": "labtop\u0026notebook;validate-the-price-of-macbook-pro-is-2000",
         "after": [
           {
             "result": {
-              "duration": 362276900,
+              "duration": 334231200,
               "status": "passed"
             },
             "match": {
@@ -80,29 +80,41 @@
         "steps": [
           {
             "result": {
-              "duration": 228195000,
+              "duration": 2487184600,
               "status": "passed"
             },
-            "line": 10,
-            "name": "User should see all items are present in Desktop page",
+            "line": 33,
+            "name": "User click on ‘MacBook Pro’ item labtop feature",
             "match": {
-              "location": "stepDefinitions.DesktopStepDif.user_should_see_all_items_are_present_in_desktop_page()"
+              "location": "stepDefinitions.labtopAndNoteBook.click_macBook_pro_item()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 165875600,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "User should see  ‘$2,000.00’ price tag is present on UI.",
+            "match": {
+              "location": "stepDefinitions.labtopAndNoteBook.user_should_see_price_tag_for_UI_present()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@FirstTry"
+            "name": "@FourthLabtop"
           }
         ]
       }
     ],
-    "name": "Desktop",
+    "name": "Labtop\u0026NoteBook",
     "description": "",
-    "id": "desktop",
+    "id": "labtop\u0026notebook",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/desktopPage.feature",
+    "uri": "file:src/test/resources/features/labtop.feature",
     "tags": []
   }
 ]

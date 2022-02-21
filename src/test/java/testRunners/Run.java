@@ -6,9 +6,9 @@ import io.cucumber.junit.CucumberOptions;
 
 			@RunWith(Cucumber.class)
 			@CucumberOptions(
-			features = "C:\\Users\\Mharo\\eclipse-workspaceVersion2\\AimalCapstone\\src\\test\\resources\\features\\desktopPage.feature",
+			features = "C:\\Users\\Mharo\\eclipse-workspaceVersion2\\AimalCapstone\\src\\test\\resources\\features",
 			glue = "stepDefinitions",
-			tags = "@FirstTry",
+			tags = "@FourthLabtop",
 			dryRun = false,
 			strict = true,
 			monochrome = true,
