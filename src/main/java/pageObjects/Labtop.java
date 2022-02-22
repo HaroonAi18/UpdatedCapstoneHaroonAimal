@@ -117,12 +117,13 @@ public class Labtop extends baseClassA {
 	
 	public void successMessageMacBookLaptop()
 	{
-		successMessageForMacBookLabtop.getText();
+		//successMessageForMacBookLabtop.getText();
 	}
 	
 	public void verifyUserSeeCartMacBook()
 	{
-		String MacBookCart = userSeeCartMacBook.getText();
+		}
+		/*String MacBookCart = userSeeCartMacBook.getText();
 		if(MacBookCart.equalsIgnoreCase("Success: You have added MacBook to your shopping cart!"))
 		{
 			logger.info("You have successfully add macbook to the cart. ");
@@ -131,7 +132,7 @@ public class Labtop extends baseClassA {
 		{
 			logger.info("sceess meessgae did not match.");
 		}
-	}
+	}*/
 	//------------------------------------
 	public void userClickOnCartOption()
 

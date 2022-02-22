@@ -1,12 +1,15 @@
 package stepDefinitions;
 
 
+import java.io.IOException;
+
 import core.baseClassA;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.DesktopPage;
+import utilities.utilities;
 
 
 public class DesktopStepDif extends baseClassA {
@@ -15,10 +18,11 @@ public class DesktopStepDif extends baseClassA {
 	
 	//--------------First Scenario----------------------
 	@Given("User is on Retail website")
-	public void user_is_on_retail_website ()
+	public void user_is_on_retail_website () throws IOException
 	{
 		deskPageObject.validateHomePage();
 		logger.info("User is on test envioment!!!");
+		utilities.takeScreenShot("TestENV");
 	}
 	
 	
@@ -38,10 +42,11 @@ public class DesktopStepDif extends baseClassA {
 	}
 	
 	@Then("User should see all items are present in Desktop page")
-	public void user_should_see_all_items_are_present_in_desktop_page()
+	public void user_should_see_all_items_are_present_in_desktop_page() throws IOException
 	{
 		deskPageObject.confirmAllItemArePresent();
 		logger.info("Verified All ithem are presented on the desptop page. ");
+		utilities.takeScreenShot("show all items ");
 	}
 	//------------Second Scenario-------------------------------------
 	@And("User click  ADD TO CART option on ‘HP LP3065’ item")
@@ -66,10 +71,11 @@ public class DesktopStepDif extends baseClassA {
 	}
 			
 	@Then("User should see a message ‘Success: you have added HP LP 3065 to your Shopping cart!’")
-	public void user_should_see_a_message_success()
+	public void user_should_see_a_message_success() throws IOException
 	{
 		deskPageObject.successMessageHPLP();
 		logger.info("Success message has successfully apperead. ");
+		utilities.takeScreenShot("suceesmessagee");
 	}
 	//-----------------Third scenario---------------------------------------------
 	
@@ -102,10 +108,11 @@ public class DesktopStepDif extends baseClassA {
 	}
 	
 	@Then("User should see a message ‘Success: You have added Canon EOS 5D to your shopping cart!’")
-	public void user_should_see_message_cannon_add_to_shopping_success_message()
+	public void user_should_see_message_cannon_add_to_shopping_success_message() throws IOException
 	{
 		deskPageObject.canonSuccessMessage();
 		logger.info("success message on screen");
+		utilities.takeScreenShot("ScreenshotDesktop");
 	}
 	//----------------------------------------------------------------------
 	
@@ -140,11 +147,12 @@ public class DesktopStepDif extends baseClassA {
 	}
 	
 	@Then("User should see a message with ‘Thank you for your review. It has been submitted to the webmaster for approval.'")
-	public void user_should_see_success_message_to_add_revewio_for_cannon()
+	public void user_should_see_success_message_to_add_revewio_for_cannon() throws IOException
 	{
 		
 		deskPageObject.thankYouMessageCanon();
 		logger.info("Verified result is mathcing. ");
+		utilities.takeScreenShot("ScreenshotReview");
 	}
 	//----------------------------------------------------------------------------
 	//----------------------------------------------------------------------------

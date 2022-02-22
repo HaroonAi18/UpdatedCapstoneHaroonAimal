@@ -1,4 +1,6 @@
 testRunners\Run.class
 stepDefinitions\Initializer.class
+stepDefinitions\RetailPageStepDef.class
 stepDefinitions\DesktopStepDif.class
 stepDefinitions\labtopAndNoteBook.class
+stepDefinitions\HomePageStepDef.class

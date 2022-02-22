@@ -3,7 +3,6 @@ package pageObjects;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
 import core.baseClassA;
 
 public class HomePageObj extends baseClassA {
@@ -64,7 +63,10 @@ public class HomePageObj extends baseClassA {
 	
 	public void confirmingChanginCurrency()
 	{
-	
+		/*String confirmCurrency = euroSelected.getText();
+		String euro = "$";
+		Assert.assertEquals(euro, confirmCurrency);*/
+		
 	}
 	
 	//--------------End of Methods for first Scenario---------------------------------------------------------

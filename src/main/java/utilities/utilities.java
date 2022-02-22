@@ -23,11 +23,11 @@ public class utilities extends baseClassA {
 		}
 	}
 	//--------------------------Screen Shot method--------------------------
-	public static void takeScreenShot() throws IOException
+	public static void takeScreenShot(String fileName) throws IOException
 	{
 		String  path = "C:\\Users\\Mharo\\eclipse-workspaceVersion2\\AimalCapstone\\output\\screeenshot";
 		File file = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
-		FileUtils.copyFile(file, new File(path + file + ".png"));
+		FileUtils.copyFile(file, new File(path + fileName + ".png"));
 	}
 	//-----------------------------------------------------------------------
 	public static void clickWithJSE(WebElement element) {

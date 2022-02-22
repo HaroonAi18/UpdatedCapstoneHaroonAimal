@@ -207,3 +207,193 @@
 2022-02-21 11:53:35,903 - logger_File -INFO - User Clicked on MacBook item
 2022-02-21 11:53:36,074 - logger_File -INFO - Right price Displayed
 2022-02-21 11:53:36,406 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-21 12:12:59,641 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. Started
+2022-02-21 12:13:08,352 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-21 12:13:08,625 - logger_File -INFO - user lcik on my account
+2022-02-21 12:13:09,771 - logger_File -INFO - user clicked on login retail page
+2022-02-21 12:13:10,446 - logger_File -INFO - Verified user successfully entered username and password
+2022-02-21 12:13:10,996 - logger_File -INFO - user lcike on login button
+2022-02-21 12:13:11,027 - logger_File -INFO - unexpected error happenned
+2022-02-21 12:13:41,594 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. FAILED
+2022-02-21 12:15:47,279 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. Started
+2022-02-21 12:15:55,336 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-21 12:15:55,433 - logger_File -INFO - user lcik on my account
+2022-02-21 12:15:56,386 - logger_File -INFO - user clicked on login retail page
+2022-02-21 12:15:56,890 - logger_File -INFO - Verified user successfully entered username and password
+2022-02-21 12:15:57,608 - logger_File -INFO - user lcike on login button
+2022-02-21 12:15:57,634 - logger_File -INFO - unexpected error happenned
+2022-02-21 12:16:28,238 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. FAILED
+2022-02-21 12:17:38,627 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. Started
+2022-02-21 12:17:45,601 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-21 12:17:45,822 - logger_File -INFO - user lcik on my account
+2022-02-21 12:17:47,143 - logger_File -INFO - user clicked on login retail page
+2022-02-21 12:17:47,584 - logger_File -INFO - Verified user successfully entered username and password
+2022-02-21 12:17:48,461 - logger_File -INFO - user lcike on login button
+2022-02-21 12:18:18,952 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. FAILED
+2022-02-21 12:19:02,274 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. Started
+2022-02-21 12:19:09,907 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-21 12:19:09,980 - logger_File -INFO - user lcik on my account
+2022-02-21 12:19:11,099 - logger_File -INFO - user clicked on login retail page
+2022-02-21 12:19:11,750 - logger_File -INFO - Verified user successfully entered username and password
+2022-02-21 12:19:12,623 - logger_File -INFO - user lcike on login button
+2022-02-21 12:19:12,684 - logger_File -INFO - user has logged in to the retail dahsboard!
+2022-02-21 12:23:56,191 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. Started
+2022-02-21 12:24:03,861 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-21 12:24:03,971 - logger_File -INFO - user lcik on my account
+2022-02-21 12:24:05,319 - logger_File -INFO - user clicked on login retail page
+2022-02-21 12:24:05,834 - logger_File -INFO - Verified user successfully entered username and password
+2022-02-21 12:24:06,706 - logger_File -INFO - user lcike on login button
+2022-02-21 12:24:06,844 - logger_File -INFO - John Has sucessfully logged in
+2022-02-21 12:24:06,845 - logger_File -INFO - Verified!
+2022-02-21 12:24:37,404 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. FAILED
+2022-02-21 12:26:14,151 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. Started
+2022-02-21 12:26:23,840 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-21 12:26:24,103 - logger_File -INFO - user lcik on my account
+2022-02-21 12:26:25,145 - logger_File -INFO - user clicked on login retail page
+2022-02-21 12:26:25,814 - logger_File -INFO - Verified user successfully entered username and password
+2022-02-21 12:26:26,608 - logger_File -INFO - user lcike on login button
+2022-02-21 12:26:26,759 - logger_File -INFO - John Has sucessfully logged in
+2022-02-21 12:26:26,759 - logger_File -INFO - Verified!
+2022-02-21 12:26:30,554 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method. PASSED
+2022-02-21 12:26:56,870 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-21 12:27:04,896 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-21 12:27:05,103 - logger_File -INFO - user lcik on my account
+2022-02-21 12:27:06,121 - logger_File -INFO - user clicked on login retail page
+2022-02-21 12:27:06,667 - logger_File -INFO - Verified user successfully entered username and password
+2022-02-21 12:27:07,714 - logger_File -INFO - user lcike on login button
+2022-02-21 12:27:07,859 - logger_File -INFO - John Has sucessfully logged in
+2022-02-21 12:27:07,859 - logger_File -INFO - Verified!
+2022-02-21 12:27:11,567 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-02-21 12:27:35,688 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-21 12:27:42,227 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-21 12:27:42,366 - logger_File -INFO - user lcik on my account
+2022-02-21 12:27:43,630 - logger_File -INFO - user clicked on login retail page
+2022-02-21 12:27:44,080 - logger_File -INFO - Verified user successfully entered username and password
+2022-02-21 12:27:44,721 - logger_File -INFO - user lcike on login button
+2022-02-21 12:27:44,783 - logger_File -INFO - John Has sucessfully logged in
+2022-02-21 12:27:44,784 - logger_File -INFO - Verified!
+2022-02-21 12:28:18,570 - logger_File -INFO - Scenario Edit your account Information FAILED
+2022-02-21 12:28:28,402 - logger_File -INFO - Scenario Edit your account Information Started
+2022-02-21 12:28:35,177 - logger_File -INFO - Text Verified user is on the right page. 
+2022-02-21 12:28:35,258 - logger_File -INFO - user lcik on my account
+2022-02-21 12:28:37,064 - logger_File -INFO - user clicked on login retail page
+2022-02-21 12:28:37,555 - logger_File -INFO - Verified user successfully entered username and password
+2022-02-21 12:28:38,235 - logger_File -INFO - user lcike on login button
+2022-02-21 12:28:38,373 - logger_File -INFO - John Has sucessfully logged in
+2022-02-21 12:28:38,373 - logger_File -INFO - Verified!
+2022-02-21 12:28:42,617 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-02-22 11:27:33,842 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-22 11:27:43,127 - logger_File -INFO - User is on the right page. 
+2022-02-22 11:27:43,127 - logger_File -INFO - User is on test envomet VERIFIED!
+2022-02-22 11:27:43,381 - logger_File -INFO - user click on labtop and Note Book
+2022-02-22 11:27:44,686 - logger_File -INFO - Usre clicked on labtop and note book
+2022-02-22 11:27:47,442 - logger_File -INFO - user lciked on macbook
+2022-02-22 11:27:47,670 - logger_File -INFO - user click on add to cart button labtop and note book
+2022-02-22 11:27:47,905 - logger_File -INFO - sceess meessgae did not match.
+2022-02-22 11:27:47,906 - logger_File -INFO - Verified !!!!
+2022-02-22 11:27:48,000 - logger_File -INFO - user lciked on cart option
+2022-02-22 11:27:48,073 - logger_File -INFO - User clicke on red option cart
+2022-02-22 11:27:48,872 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-22 11:32:36,845 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-22 11:33:11,083 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-22 11:33:45,657 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-22 11:34:19,388 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-22 11:34:19,491 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-22 11:34:34,522 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-22 11:34:41,608 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-22 11:35:10,582 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-22 11:35:19,906 - logger_File -INFO - User is on the right page. 
+2022-02-22 11:35:19,907 - logger_File -INFO - User is on test envomet VERIFIED!
+2022-02-22 11:35:20,017 - logger_File -INFO - user click on labtop and Note Book
+2022-02-22 11:35:21,583 - logger_File -INFO - Usre clicked on labtop and note book
+2022-02-22 11:35:23,763 - logger_File -INFO - user lciked on macbook
+2022-02-22 11:35:23,869 - logger_File -INFO - user click on add to cart button labtop and note book
+2022-02-22 11:35:24,169 - logger_File -INFO - Verified !!!!
+2022-02-22 11:35:24,256 - logger_File -INFO - user lciked on cart option
+2022-02-22 11:35:54,911 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-22 11:37:09,289 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-22 11:37:15,714 - logger_File -INFO - User is on the right page. 
+2022-02-22 11:37:15,714 - logger_File -INFO - User is on test envomet VERIFIED!
+2022-02-22 11:37:15,801 - logger_File -INFO - user click on labtop and Note Book
+2022-02-22 11:37:16,984 - logger_File -INFO - Usre clicked on labtop and note book
+2022-02-22 11:37:18,992 - logger_File -INFO - user lciked on macbook
+2022-02-22 11:37:19,096 - logger_File -INFO - user click on add to cart button labtop and note book
+2022-02-22 11:37:19,212 - logger_File -INFO - Verified !!!!
+2022-02-22 11:37:19,891 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-22 11:38:24,825 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-22 11:38:31,211 - logger_File -INFO - User is on the right page. 
+2022-02-22 11:38:31,212 - logger_File -INFO - User is on test envomet VERIFIED!
+2022-02-22 11:38:31,370 - logger_File -INFO - user click on labtop and Note Book
+2022-02-22 11:38:32,831 - logger_File -INFO - Usre clicked on labtop and note book
+2022-02-22 11:38:36,929 - logger_File -INFO - user lciked on macbook
+2022-02-22 11:38:37,026 - logger_File -INFO - user click on add to cart button labtop and note book
+2022-02-22 11:38:37,030 - logger_File -INFO - Verified !!!!
+2022-02-22 11:38:37,702 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart FAILED
+2022-02-22 11:39:28,960 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-22 11:39:37,123 - logger_File -INFO - User is on the right page. 
+2022-02-22 11:39:37,124 - logger_File -INFO - User is on test envomet VERIFIED!
+2022-02-22 11:39:37,247 - logger_File -INFO - user click on labtop and Note Book
+2022-02-22 11:39:38,715 - logger_File -INFO - Usre clicked on labtop and note book
+2022-02-22 11:39:38,904 - logger_File -INFO - uSER clicked on macBook to comapres. 
+2022-02-22 11:39:40,909 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-02-22 11:40:08,598 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-22 11:40:15,025 - logger_File -INFO - User is on the right page. 
+2022-02-22 11:40:15,025 - logger_File -INFO - User is on test envomet VERIFIED!
+2022-02-22 11:40:15,131 - logger_File -INFO - user click on labtop and Note Book
+2022-02-22 11:40:16,282 - logger_File -INFO - Usre clicked on labtop and note book
+2022-02-22 11:40:16,378 - logger_File -INFO - user CLickec on heart icond with list. 
+2022-02-22 11:40:16,468 - logger_File -INFO - Success Message Has success fully displayed. 
+2022-02-22 11:40:16,882 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-22 11:40:37,963 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-22 11:40:44,156 - logger_File -INFO - User is on the right page. 
+2022-02-22 11:40:44,157 - logger_File -INFO - User is on test envomet VERIFIED!
+2022-02-22 11:40:44,236 - logger_File -INFO - user click on labtop and Note Book
+2022-02-22 11:40:45,783 - logger_File -INFO - Usre clicked on labtop and note book
+2022-02-22 11:40:47,587 - logger_File -INFO - User Clicked on MacBook item
+2022-02-22 11:40:47,712 - logger_File -INFO - Right price Displayed
+2022-02-22 11:40:48,203 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-22 11:41:54,012 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-22 11:42:27,382 - logger_File -INFO - Scenario User verify currency values change FAILED
+2022-02-22 11:42:41,812 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-22 11:43:15,417 - logger_File -INFO - Scenario User verify currency values change FAILED
+2022-02-22 11:45:21,873 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-22 11:45:28,909 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-22 11:45:28,910 - logger_File -INFO - Title is matching user is in the right website
+2022-02-22 11:45:29,015 - logger_File -INFO - User clicked on currency drop down
+2022-02-22 11:45:30,289 - logger_File -INFO - user has changed currency to euro
+2022-02-22 11:45:30,294 - logger_File -INFO - Verified User has successfully change currency for website.
+2022-02-22 11:45:30,719 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-22 11:46:05,712 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-22 11:46:12,710 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-22 11:46:12,711 - logger_File -INFO - Title is matching user is in the right website
+2022-02-22 11:46:12,858 - logger_File -INFO - Cart is still loaded. 
+2022-02-22 11:46:13,337 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-22 12:16:59,578 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-22 12:17:08,960 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-22 12:17:08,962 - logger_File -INFO - Title is matching user is in the right website
+2022-02-22 12:17:09,232 - logger_File -INFO - User clicked on currency drop down
+2022-02-22 12:17:10,789 - logger_File -INFO - user has changed currency to euro
+2022-02-22 12:17:10,793 - logger_File -INFO - Verified User has successfully change currency for website.
+2022-02-22 12:17:11,263 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-22 12:31:17,283 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-22 12:31:24,518 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-22 12:31:24,519 - logger_File -INFO - Title is matching user is in the right website
+2022-02-22 12:31:26,509 - logger_File -INFO - Scenario User verify currency values change FAILED
+2022-02-22 12:32:01,120 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-22 12:32:08,318 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-22 12:32:08,319 - logger_File -INFO - Title is matching user is in the right website
+2022-02-22 12:32:08,416 - logger_File -INFO - User clicked on currency drop down
+2022-02-22 12:32:10,037 - logger_File -INFO - user has changed currency to euro
+2022-02-22 12:32:10,048 - logger_File -INFO - Verified User has successfully change currency for website.
+2022-02-22 12:32:10,428 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-22 12:35:59,063 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-22 12:36:06,557 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-22 12:36:06,558 - logger_File -INFO - Title is matching user is in the right website
+2022-02-22 12:36:07,818 - logger_File -INFO - Scenario User verify currency values change FAILED
+2022-02-22 12:40:28,764 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-22 12:40:37,374 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-22 12:40:37,375 - logger_File -INFO - Title is matching user is in the right website
+2022-02-22 12:40:38,524 - logger_File -INFO - User clicked on currency drop down
+2022-02-22 12:40:39,965 - logger_File -INFO - user has changed currency to euro
+2022-02-22 12:40:39,974 - logger_File -INFO - Verified User has successfully change currency for website.
+2022-02-22 12:40:40,457 - logger_File -INFO - Scenario User verify currency values change PASSED

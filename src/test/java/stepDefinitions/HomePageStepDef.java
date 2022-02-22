@@ -12,6 +12,7 @@ import io.cucumber.java.en.When;
 import pageObjects.HomePageObj;
 import utilities.utilities;
 
+
 public class HomePageStepDef extends baseClassA{
 
 	HomePageObj Home = new HomePageObj();
@@ -22,7 +23,7 @@ public class HomePageStepDef extends baseClassA{
 	{
 		Home.homePageValidation();
 		logger.info("Title is matching user is in the right website");
-		utilities.takeScreenShot();
+		utilities.takeScreenShot("Screenshot for method.");
 	}
 	
 	@When("User click on Currency")
@@ -40,9 +41,11 @@ public class HomePageStepDef extends baseClassA{
 	}
 	
 	@Then("currency value should change to Euro")
-	public void currency_value_should_change_to_eiro()
+	public void currency_value_should_change_to_eiro() throws IOException
 	{
+		Home.confirmingChanginCurrency();
 		logger.info("Verified User has successfully change currency for website.");
+		utilities.takeScreenShot("SucessMessage.");
 	}
 	//------------------End of First scenario------------------------------
 	
@@ -54,9 +57,10 @@ public class HomePageStepDef extends baseClassA{
 	}
 	
 	@Then("“Your shopping cart is empty!” message should display")
-	public void your_shopping_cart_is_empty()
+	public void your_shopping_cart_is_empty() throws IOException
 	{
 		Home.sucessMessageEmptySopingCart();
+		utilities.takeScreenShot("ScreenShotfor successMessagfe.");
 	}
 	//-------------------End of second scenario----------------------------
 	

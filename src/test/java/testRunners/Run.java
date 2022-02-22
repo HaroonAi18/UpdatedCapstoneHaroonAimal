@@ -8,7 +8,7 @@ import io.cucumber.junit.CucumberOptions;
 			@CucumberOptions(
 			features = "C:\\Users\\Mharo\\eclipse-workspaceVersion2\\AimalCapstone\\src\\test\\resources\\features",
 			glue = "stepDefinitions",
-			tags = "@FourthLabtop",
+			tags = "@hoemfirst",
 			dryRun = false,
 			strict = true,
 			monochrome = true,

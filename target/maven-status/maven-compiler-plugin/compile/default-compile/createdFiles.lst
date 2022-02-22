@@ -1,3 +1,9 @@
+pageObjects\Labtop.class
+pageObjects\HomePageObj.class
 core\baseClassA.class
 pageObjects\DesktopPage.class
-pageObjects\Labtop.class
+pageObjects\SoftwareNavigation.class
+utilities\utilities.class
+pageObjects\ComparePageObjectNav.class
+pageObjects\retailPage.class
+pageObjects\Mp3Players.class

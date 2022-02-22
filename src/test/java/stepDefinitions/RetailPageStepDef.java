@@ -1,11 +1,14 @@
 package stepDefinitions;
 
+import java.io.IOException;
+
 import core.baseClassA;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.retailPage;
+import utilities.utilities;
 
 public class RetailPageStepDef extends baseClassA {
 
@@ -48,18 +51,11 @@ public class RetailPageStepDef extends baseClassA {
 	}
 	
 	@Then("User should be logged in to MyAccount dashboard")
-	public void user_should_be_loggeed_to_dashborad()
+	public void user_should_be_loggeed_to_dashborad() throws IOException
 	{
-		String getPageTitle = driver.getTitle();
-		if (getPageTitle.equalsIgnoreCase(""))
-		{
-			logger.info("user has logged in to the retail dahsboard!");
-		}
-		else
-		{
-			logger.info("unexpected error happenned");
-		}
-		
+		rePage.confirmLogInToDashboard();
+		logger.info("Verified!");
+		utilities.takeScreenShot("dashboard");
 	}
 	//------------------End of BackGround information login to my account---------------
 	
@@ -93,9 +89,10 @@ public class RetailPageStepDef extends baseClassA {
 	}
 	
 	@Then("User should see a success message retail")
-	public void user_should_see_a_secces_meessage_reail()
+	public void user_should_see_a_secces_meessage_reail() throws IOException
 	{
 		rePage.showSuccessMessageAffliateUser();
+		utilities.takeScreenShot("retail");
 	}
 	
 	//--------------------End of First Scenario step definition------------------------
@@ -159,9 +156,10 @@ public class RetailPageStepDef extends baseClassA {
 	}
 	
 	@Then("User should see a message ‘Success: Your account has been successfully updated.’")
-	public void user_shoud_see_success_message_fourht_scenario_retail()
+	public void user_shoud_see_success_message_fourht_scenario_retail() throws IOException
 	{
 		rePage.showSucessMessageFourthScenario();
+		utilities.takeScreenShot("messagesceess");
 	}
 	
 	//---------------------------------------------------------------

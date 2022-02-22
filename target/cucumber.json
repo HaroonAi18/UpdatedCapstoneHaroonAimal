@@ -11,48 +11,24 @@
         "steps": [
           {
             "result": {
-              "duration": 144097900,
+              "duration": 1036820100,
               "status": "passed"
             },
             "line": 4,
-            "name": "User is on Retail website labtop and notebook",
+            "name": "User is on Retail website home feature",
             "match": {
-              "location": "stepDefinitions.labtopAndNoteBook.user_click_on_retail_website_noteBook()"
+              "location": "stepDefinitions.HomePageStepDef.user_is_on_retail_website_home_features()"
             },
             "keyword": "Given "
-          },
-          {
-            "result": {
-              "duration": 66207400,
-              "status": "passed"
-            },
-            "line": 5,
-            "name": "User click on Laptop \u0026NoteBook tab",
-            "match": {
-              "location": "stepDefinitions.labtopAndNoteBook.user_click_on_labtop_and_noteBook_tab()"
-            },
-            "keyword": "When "
-          },
-          {
-            "result": {
-              "duration": 1612814200,
-              "status": "passed"
-            },
-            "line": 6,
-            "name": "User click on Show all Laptop \u0026NoteBook option",
-            "match": {
-              "location": "stepDefinitions.labtopAndNoteBook.user_click_on_show_all_labtop_and_notebook()"
-            },
-            "keyword": "And "
           }
         ]
       },
       {
-        "start_timestamp": "2022-02-21T16:53:24.434Z",
+        "start_timestamp": "2022-02-22T17:40:28.500Z",
         "before": [
           {
             "result": {
-              "duration": 7017557800,
+              "duration": 8610993700,
               "status": "passed"
             },
             "match": {
@@ -60,14 +36,14 @@
             }
           }
         ],
-        "line": 32,
-        "name": "Validate the price of MacBook Pro is 2000",
+        "line": 9,
+        "name": "User verify currency values change",
         "description": "",
-        "id": "labtop\u0026notebook;validate-the-price-of-macbook-pro-is-2000",
+        "id": "homepage;user-verify-currency-values-change",
         "after": [
           {
             "result": {
-              "duration": 334231200,
+              "duration": 481169600,
               "status": "passed"
             },
             "match": {
@@ -80,41 +56,53 @@
         "steps": [
           {
             "result": {
-              "duration": 2487184600,
+              "duration": 228291300,
               "status": "passed"
             },
-            "line": 33,
-            "name": "User click on ‘MacBook Pro’ item labtop feature",
+            "line": 10,
+            "name": "User click on Currency",
             "match": {
-              "location": "stepDefinitions.labtopAndNoteBook.click_macBook_pro_item()"
+              "location": "stepDefinitions.HomePageStepDef.user_clicks_on_currency()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1439193800,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "User Chose Euro from dropdown",
+            "match": {
+              "location": "stepDefinitions.HomePageStepDef.user_chose_euro_fjorm_deopdown()"
             },
             "keyword": "And "
           },
           {
             "result": {
-              "duration": 165875600,
+              "duration": 1997100,
               "status": "passed"
             },
-            "line": 34,
-            "name": "User should see  ‘$2,000.00’ price tag is present on UI.",
+            "line": 12,
+            "name": "currency value should change to Euro",
             "match": {
-              "location": "stepDefinitions.labtopAndNoteBook.user_should_see_price_tag_for_UI_present()"
+              "location": "stepDefinitions.HomePageStepDef.currency_value_should_change_to_eiro()"
             },
             "keyword": "Then "
           }
         ],
         "tags": [
           {
-            "name": "@FourthLabtop"
+            "name": "@hoemfirst"
           }
         ]
       }
     ],
-    "name": "Labtop\u0026NoteBook",
+    "name": "HomePage",
     "description": "",
-    "id": "labtop\u0026notebook",
+    "id": "homepage",
     "keyword": "Feature",
-    "uri": "file:src/test/resources/features/labtop.feature",
+    "uri": "file:src/test/resources/features/homePage.feature",
     "tags": []
   }
 ]

@@ -1,11 +1,14 @@
 package stepDefinitions;
 
+import java.io.IOException;
+
 import core.baseClassA;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.Labtop;
+import utilities.utilities;
 
 public class labtopAndNoteBook extends baseClassA {
 	
@@ -13,10 +16,11 @@ public class labtopAndNoteBook extends baseClassA {
 	
 	//-------------Beginning of step definitions for background and first scenario-------------
 	@Given("User is on Retail website labtop and notebook")
-	public void user_click_on_retail_website_noteBook()
+	public void user_click_on_retail_website_noteBook() throws IOException
 	{
 		LNote.textValidateLabtop();
 		logger.info("User is on test envomet VERIFIED!");
+		utilities.takeScreenShot("TestEnvmnet");
 	}
 	
 	@When("User click on Laptop &NoteBook tab")
@@ -78,9 +82,10 @@ public class labtopAndNoteBook extends baseClassA {
 	}
 	
 	@Then("item should be removed and cart should show No items Labtop features")
-	public void item_shoud_be_removed_and_cart_shold_show_zeroItem()
+	public void item_shoud_be_removed_and_cart_shold_show_zeroItem() throws IOException
 	{
 		LNote.verifyUserSeeNoItemOnCart();
+		utilities.takeScreenShot("zeroItem");
 	}
 	//------------------------End of First Scenario-------------------------------------------
 	
@@ -115,10 +120,11 @@ public class labtopAndNoteBook extends baseClassA {
 	}
 	
 	@Then("User should see Product Comparison Chart")
-	public void user_should_See_product_comparison_xhart()
+	public void user_should_See_product_comparison_xhart() throws IOException
 	{
 		LNote.showProductComparisonChart();
 		logger.info("User can see chart with comapred product in it");
+		utilities.takeScreenShot("Comparison");
 	}
 	//-----------------------------------------------------------------------------------------
 	
@@ -131,10 +137,11 @@ public class labtopAndNoteBook extends baseClassA {
 	}
 	
 	@Then("User should get a message ‘You must login or create an account to save Sony VAIO to your wish list!’")
-	public void user_shoudl_get_message_you_must_login_ro_create_accoutn_to_save_sony()
+	public void user_shoudl_get_message_you_must_login_ro_create_accoutn_to_save_sony() throws IOException
 	{
 		LNote.showSuccessMessageWishList();
 		logger.info("Success Message Has success fully displayed. ");
+		utilities.takeScreenShot("login");
 	}
 	//---------------------------End of Third Scenario Wish List---------------------------------
 	@And("User click on ‘MacBook Pro’ item labtop feature")

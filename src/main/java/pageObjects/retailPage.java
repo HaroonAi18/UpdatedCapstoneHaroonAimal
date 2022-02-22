@@ -31,6 +31,9 @@ public class retailPage extends baseClassA {
 	
 	@FindBy(xpath = "//input[@value='Login']")
 	private WebElement loginButton;
+	
+	@FindBy(xpath = "//h2[contains(text(),'My Account')]")
+	private WebElement myAccountConfirmation;
 	//------------------End of Locators for login feature Or background------------------------------------------------
 	
 	//-----------------locators for second scenario "Register as an Affiliate user with Cheque Payment Method"-----------
@@ -143,7 +146,7 @@ public class retailPage extends baseClassA {
 	
 	public void enterUsername()
 	{
-		inputEmailTexBox.sendKeys("basketball@gmail.com");
+		inputEmailTexBox.sendKeys("Alexis.PP@gmail.com");
 	}
 	
 	public void enterPassword()
@@ -154,6 +157,19 @@ public class retailPage extends baseClassA {
 	public void clickLogInButton()
 	{
 		loginButton.click();
+	}
+	
+	public void confirmLogInToDashboard()
+	{
+		String myAccountAf = myAccountConfirmation.getText();
+		if (myAccountAf.equalsIgnoreCase("My Account"))
+		{
+			logger.info("John Has sucessfully logged in");
+		}
+		else
+		{
+			logger.info("failed logigin to dahsobar.");
+		}
 	}
 	//-------------------------End of First Scenario--------------------------------------------------
 
@@ -277,7 +293,7 @@ public class retailPage extends baseClassA {
 	public void modifyEmail()
 	{
 		modifyEmail.clear();
-		modifyEmail.sendKeys("John.Devis@gmail.com");
+		modifyEmail.sendKeys("JohnDevis@gmail.com");
 	}
 	
 	public void modifyTelephone()
