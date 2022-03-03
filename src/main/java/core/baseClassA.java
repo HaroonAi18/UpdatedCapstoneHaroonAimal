@@ -13,6 +13,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
@@ -89,8 +90,13 @@ public class baseClassA {
 			break;
 			
 		case "firefox":
+			
+			//To Run in a headless browser we have
+			FirefoxOptions options = new FirefoxOptions();
+			options.addArguments("headless");
+			
 			WebDriverManager.firefoxdriver().setup();
-			driver = new FirefoxDriver();
+			driver = new FirefoxDriver(options);
 			break;
 			
 		case "edge":

@@ -397,3 +397,68 @@
 2022-02-22 12:40:39,965 - logger_File -INFO - user has changed currency to euro
 2022-02-22 12:40:39,974 - logger_File -INFO - Verified User has successfully change currency for website.
 2022-02-22 12:40:40,457 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-24 13:16:14,400 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-02-24 13:16:22,953 - logger_File -INFO - User is on the right page. 
+2022-02-24 13:16:22,953 - logger_File -INFO - User is on test envomet VERIFIED!
+2022-02-24 13:16:23,620 - logger_File -INFO - user click on labtop and Note Book
+2022-02-24 13:16:26,015 - logger_File -INFO - Usre clicked on labtop and note book
+2022-02-24 13:16:29,972 - logger_File -INFO - user lciked on macbook
+2022-02-24 13:16:30,054 - logger_File -INFO - user click on add to cart button labtop and note book
+2022-02-24 13:16:30,058 - logger_File -INFO - Verified !!!!
+2022-02-24 13:16:30,122 - logger_File -INFO - user lciked on cart option
+2022-02-24 13:16:30,616 - logger_File -INFO - User clicke on red option cart
+2022-02-24 13:16:35,591 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-02-24 13:17:00,172 - logger_File -INFO - Scenario Product Comparison Started
+2022-02-24 13:17:09,549 - logger_File -INFO - User is on the right page. 
+2022-02-24 13:17:09,549 - logger_File -INFO - User is on test envomet VERIFIED!
+2022-02-24 13:17:10,376 - logger_File -INFO - user click on labtop and Note Book
+2022-02-24 13:17:11,574 - logger_File -INFO - Usre clicked on labtop and note book
+2022-02-24 13:17:11,654 - logger_File -INFO - uSER clicked on macBook to comapres. 
+2022-02-24 13:17:11,874 - logger_File -INFO - User click on product product comparison for MacBook air.
+2022-02-24 13:17:11,915 - logger_File -INFO - Message Displayed
+2022-02-24 13:17:12,327 - logger_File -INFO - User clicked on product compariosn link.
+2022-02-24 13:17:12,395 - logger_File -INFO - Success Message for product comparison is displayed!!
+2022-02-24 13:17:12,395 - logger_File -INFO - User can see chart with comapred product in it
+2022-02-24 13:17:12,934 - logger_File -INFO - Scenario Product Comparison PASSED
+2022-02-24 13:17:32,379 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-02-24 13:17:42,269 - logger_File -INFO - User is on the right page. 
+2022-02-24 13:17:42,269 - logger_File -INFO - User is on test envomet VERIFIED!
+2022-02-24 13:17:42,969 - logger_File -INFO - user click on labtop and Note Book
+2022-02-24 13:17:44,732 - logger_File -INFO - Usre clicked on labtop and note book
+2022-02-24 13:17:44,949 - logger_File -INFO - user CLickec on heart icond with list. 
+2022-02-24 13:17:45,054 - logger_File -INFO - Success Message Has success fully displayed. 
+2022-02-24 13:17:45,952 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-02-24 13:18:07,518 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-24 13:18:12,955 - logger_File -INFO - User is on the right page. 
+2022-02-24 13:18:12,955 - logger_File -INFO - User is on test envomet VERIFIED!
+2022-02-24 13:18:13,697 - logger_File -INFO - user click on labtop and Note Book
+2022-02-24 13:18:14,732 - logger_File -INFO - Usre clicked on labtop and note book
+2022-02-24 13:18:18,451 - logger_File -INFO - User Clicked on MacBook item
+2022-02-24 13:18:18,552 - logger_File -INFO - Right price Displayed
+2022-02-24 13:18:22,776 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-24 13:18:44,217 - logger_File -INFO - Scenario User verify currency values change Started
+2022-02-24 13:18:52,423 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-24 13:18:52,423 - logger_File -INFO - Title is matching user is in the right website
+2022-02-24 13:18:53,150 - logger_File -INFO - User clicked on currency drop down
+2022-02-24 13:18:54,160 - logger_File -INFO - user has changed currency to euro
+2022-02-24 13:18:54,163 - logger_File -INFO - Verified User has successfully change currency for website.
+2022-02-24 13:18:54,882 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-02-24 13:19:13,017 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-24 13:19:22,117 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-24 13:19:22,118 - logger_File -INFO - Title is matching user is in the right website
+2022-02-24 13:19:22,840 - logger_File -INFO - Cart is still loaded. 
+2022-02-24 13:19:23,861 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-02-24 13:50:58,319 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-24 13:51:25,973 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-24 13:51:25,974 - logger_File -INFO - Title is matching user is in the right website
+2022-02-24 13:51:26,688 - logger_File -INFO - Cart is still loaded. 
+2022-02-24 13:52:13,249 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-02-24 13:52:20,326 - logger_File -INFO - Verified! User is in the correct webste
+2022-02-24 13:52:20,327 - logger_File -INFO - Title is matching user is in the right website
+2022-02-24 13:52:21,117 - logger_File -INFO - Cart is still loaded. 
+2022-02-24 13:52:22,560 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-03-03 11:59:09,994 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-03-03 11:59:24,917 - logger_File -INFO - Verified! User is in the correct webste
+2022-03-03 11:59:24,919 - logger_File -INFO - Title is matching user is in the right website
+2022-03-03 11:59:26,180 - logger_File -INFO - Cart is still loaded. 
+2022-03-03 11:59:27,713 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
